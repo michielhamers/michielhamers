@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning better time management
 - 💞️ I’m looking to collaborate on Azure AI projects
 - 📫 You can reach me on https://about.me/michielhamers just sent me a ping, mail, tweet, dm.
+- If you visited a session that I gave where the presentation can be shared, you probably can find it in the repo: PublicPresentations.
 
 <!---
 michielhamers/michielhamers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
